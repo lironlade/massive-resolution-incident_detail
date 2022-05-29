@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="51" height="47" viewBox="0 0 51 47">
+  <defs>
+    <filter id="Rectangle_32" x="0" y="0" width="51" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(-82 -33)">
+    <g transform="matrix(1, 0, 0, 1, 82, 33)" filter="url(#Rectangle_32)">
+      <rect id="Rectangle_32-2" data-name="Rectangle 32" width="45" height="41" rx="14" transform="translate(3 1)" fill="#fff"/>
+    </g>
+    <g id="Group_59" transform="translate(97.818 44.877)">
+      <g id="Group_60">
+        <path id="Path_11" data-name="Path 11" d="M91.135-966.088a2.538,2.538,0,0,1,2.539,2.54v15.23a2.538,2.538,0,0,1-2.539,2.539H75.9a2.538,2.538,0,0,1-2.539-2.539v-15.23a2.538,2.538,0,0,1,2.539-2.54Z" transform="translate(-73.364 966.088)" fill="#dadada" stroke="#0072bc" stroke-width="1.125" fill-rule="evenodd"/>
+      </g>
+      <path id="Path_12" data-name="Path 12" d="M73.364-953.077l5.712-6.347,6.981,6.347,3.808-3.173,3.808,3.173" transform="translate(-73.364 968.309)" fill="none" stroke="#0072bc" stroke-width="1.125" fill-rule="evenodd"/>
+      <path id="Path_13" data-name="Path 13" d="M87.487-961.169a2.539,2.539,0,0,1-2.54,2.539,2.538,2.538,0,0,1-2.539-2.539,2.538,2.538,0,0,1,2.539-2.539A2.539,2.539,0,0,1,87.487-961.169Z" transform="translate(-70.349 966.881)" fill="#dadada" stroke="#0072bc" stroke-width="1.125" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
